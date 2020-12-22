@@ -1,8 +1,8 @@
 
-const XBOT = '『AMPIBI bot』'; 
-const instagram = 'https://bit.ly/2I4St2Y'; 
-const nomer = 'Wa.me/+6282334297175'; 
-const aktif = 'Tergantung kuota'; 
+const  XBOT  =  '『bot AMPIBI』' ;
+const  instagram  =  'https://bit.ly/2I4St2Y' ;
+const    nomer    =    'Wa.me/+6281358102778' ;
+const    aktif    =   'Tergantung kuota' ;
 const groupwhatsapp = 'https://bit.ly/2VJLtfn'; 
 const youtube = 'https://bit.ly/36Bp6ie'; 
 
