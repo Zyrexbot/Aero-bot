@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A187ID/AR15BOT.git"
+    "url" : "git + https: //github.com/Zyrexbot/Aero-bot/got"
   },
-  "keywords": [
+  "kata kunci" : [
     "k"
   ],
-  "author": "Abdul Muttaqin",
-  "license": "ISC",
+  "penulis" : "Abdul Muttaqin" ,
+  "lisensi" : "ISC" ,
   "bugs": {
-    "url": "https://github.com/A187ID/AR15BOT/issues"
+    "url" : "https://github.com/Zyrexbot/Aero-bot/issues"
   },
-  "homepage": "https://github.com/A187ID/AR15BOT/readme"
+  "beranda" : "https://github.com/Zyrexbot/Aero-bot
 }
